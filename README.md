@@ -8,6 +8,3 @@ Para iniciar la aplicación, debes ejecutar el comando npm start en el terminal.
 
 Instalar Módulos
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando npm install en el terminal.
-
-Aprende React
-Si deseas aprender React, te invitamos a tomar nuestro curso gratuito de React (8 horas) en el canal de YouTube de freeCodeCamp en Español.
