@@ -1,5 +1,5 @@
 ## Testimonios freeCodeCamp
-Curso Aprende React Desde Cero FreeCodeCamp de React impartida por Estefania Cassingena Navone.
+Curso 'Aprende React Desde Cero FreeCodeCamp' impartida por Estefania Cassingena Navone.
 
 Aplicación desarrollada con React basada en la sección de Testimonios de estudiantes de freeCodeCamp.
 
