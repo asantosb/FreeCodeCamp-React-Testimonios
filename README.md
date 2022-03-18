@@ -5,12 +5,12 @@ Aplicación desarrollada con React basada en la sección de Testimonios de estud
 
 
 
-Ejecutar la Aplicación
+## Ejecutar la Aplicación
 
 
 Para iniciar la aplicación, debes ejecutar el comando npm start en el terminal.
 
-Instalar Módulos
+## Instalar Módulos
 
 
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando npm install en el terminal.
